@@ -16,3 +16,7 @@ Metric Learning for Zero-Shot Classification](https://arxiv.org/pdf/1607.08085.p
 ## Other resources
 + https://medium.com/@alitech_2017/from-zero-to-hero-shaking-up-the-field-of-zero-shot-learning-c43208f71332
 + https://www.analyticsindiamag.com/what-is-zero-shot-learning/
++
++## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

@@ -1,10 +1,13 @@
-# Zero Shot Learning
+# Zero-Shot Learning
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Papers
+#2018
 + [Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs](https://arxiv.org/pdf/1803.08035.pdf) [CVPR, 2018]
 + [Preserving Semantic Relations for Zero-Shot Learning](https://arxiv.org/pdf/1803.03049.pdf) [CVPR, 2018]
+#2017
+
 + [Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://arxiv.org/pdf/1707.00600.pdf) [TPAMI, 2018]
 + [Zero-Shot learning - The Good, the Bad and the Ugly](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.pdf) [CVPR, 2017]
 + [Recent Advances in Zero-shot Recognition](https://arxiv.org/pdf/1710.04837.pdf) [arXiv, 2017]

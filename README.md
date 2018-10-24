@@ -26,7 +26,7 @@
 + **Deep-SCoRe:** Pedro Morgado, Nuno Vasconcelos."Semantically Consistent Regularization for Zero-Shot Recognition." CVPR, 2017. [[pdf](http://www.svcl.ucsd.edu/~morgado/score/score-cvpr17.pdf)] [[code](https://github.com/pedro-morgado/score-zeroshot)]
 + **DEM:** Li Zhang, Tao Xiang, Shaogang Gong."Learning a Deep Embedding Model for Zero-Shot Learning" CVPR, 2017. [[pdf](https://arxiv.org/pdf/1611.05088.pdf)] [[code](https://github.com/lzrobots/DeepEmbeddingModel_ZSL)]
 
-### Other papers
+### Other Papers
 + [Recent Advances in Zero-shot Recognition](https://arxiv.org/pdf/1710.04837.pdf) [arXiv, 2017]
 + [Improving Semantic Embedding Consistency by
 Metric Learning for Zero-Shot Classification](https://arxiv.org/pdf/1607.08085.pdf)[ECCV, 2016]

@@ -23,8 +23,8 @@
 ### CVPR 2017
 
 + **GUB:** Yongqin Xian, Bernt Schiele, Zeynep Akata. "Zero-Shot learning - The Good, the Bad and the Ugly" CVPR, 2017 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.pdf) 
-+ **Deep-SCoRe:** Pedro Morgado, Nuno Vasconcelos."Semantically Consistent Regularization for Zero-Shot Recognition." CVPR,2017 [[pdf](http://www.svcl.ucsd.edu/~morgado/score/score-cvpr17.pdf)[[code](https://github.com/pedro-morgado/score-zeroshot)
-+ **DEM-ZSL:** Li Zhang, Tao Xiang, Shaogang Gong."Learning a Deep Embedding Model for Zero-Shot Learning" CVPR, 2017 [[pdf] (https://arxiv.org/pdf/1611.05088.pdf)[[code](https://github.com/lzrobots/DeepEmbeddingModel_ZSL)
++ **Deep-SCoRe:** Pedro Morgado, Nuno Vasconcelos."Semantically Consistent Regularization for Zero-Shot Recognition." CVPR,2017 [[pdf]](http://www.svcl.ucsd.edu/~morgado/score/score-cvpr17.pdf) [[code]](https://github.com/pedro-morgado/score-zeroshot)
++ **DEM-ZSL:** Li Zhang, Tao Xiang, Shaogang Gong."Learning a Deep Embedding Model for Zero-Shot Learning" CVPR, 2017 [[pdf]] (https://arxiv.org/pdf/1611.05088.pdf) [[code]](https://github.com/lzrobots/DeepEmbeddingModel_ZSL)
 
 ### Other
 + [Recent Advances in Zero-shot Recognition](https://arxiv.org/pdf/1710.04837.pdf) [arXiv, 2017]

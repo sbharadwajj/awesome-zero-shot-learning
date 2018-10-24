@@ -14,17 +14,19 @@
 + **ML-SKG:** Chung-Wei Lee, Wei Fang, Chih-Kuan Yeh, Yu-Chiang Frank Wang. "Multi-Label Zero-Shot Learning With Structured Knowledge Graphs." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)] [[project](https://people.csail.mit.edu/weifang/project/vll18-mlzsl/)]
 + **GZSL-SE:** Vinay Kumar Verma, Gundeep Arora, Ashish Mishra, Piyush Rai. "Generalized Zero-Shot Learning via Synthesized Examples." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Verma_Generalized_Zero-Shot_Learning_CVPR_2018_paper.pdf)]
 + **FGN:** Yongqin Xian, Tobias Lorenz, Bernt Schiele, Zeynep Akata. "Feature Generating Networks for Zero-Shot Learning." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_Feature_Generating_Networks_CVPR_2018_paper.pdf)] [[code](http://datasets.d2.mpi-inf.mpg.de/xian/cvpr18xian.zip)] [[project](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/feature-generating-networks-for-zero-shot-learning/)]
-+ **LDF:** Yan Li, Junge Zhang, Jianguo Zhang, Kaiqi Huang. "Discriminative Learning of Latent Features for Zero-Shot Recognition." [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Discriminative_Learning_of_CVPR_2018_paper.pdf) 
++ **LDF:** Yan Li, Junge Zhang, Jianguo Zhang, Kaiqi Huang. "Discriminative Learning of Latent Features for Zero-Shot Recognition." [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Discriminative_Learning_of_CVPR_2018_paper.pdf) 
 
 ### TPAMI 2018
 
-+ **C-GUB:** Yongqin Xian; Christoph H. Lampert; Bernt Schiele; Zeynep Akata. "Zero-shot learning-A comprehensive evaluation of the good, the bad and the ugly." TPAMI (2018). [[pdf](https://arxiv.org/pdf/1707.00600.pdf)] 
++ **C-GUB:** Yongqin Xian; Christoph H. Lampert; Bernt Schiele; Zeynep Akata. "Zero-shot learning-A comprehensive evaluation of the good, the bad and the ugly." TPAMI (2018). [[pdf]](https://arxiv.org/pdf/1707.00600.pdf)] [[project]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly/)
 
 ### CVPR 2017
 
-+ [Zero-Shot learning - The Good, the Bad and the Ugly](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.pdf) [CVPR, 2017]
++ **GUB:** Yongqin Xian, Bernt Schiele, Zeynep Akata. "Zero-Shot learning - The Good, the Bad and the Ugly" [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.pdf) [CVPR, 2017]
 + **Deep-SCoRe:** Pedro Morgado, Nuno Vasconcelos."Semantically Consistent Regularization for Zero-Shot Recognition." [CVPR,2017] [[pdf](http://www.svcl.ucsd.edu/~morgado/score/score-cvpr17.pdf)[[code](https://github.com/pedro-morgado/score-zeroshot)
-+ [Learning a Deep Embedding Model for Zero-Shot Learning](https://arxiv.org/pdf/1611.05088.pdf) [CVPR, 2017]
++ **DEM-ZSL:**Li Zhang, Tao Xiang, Shaogang Gong."Learning a Deep Embedding Model for Zero-Shot Learning" [CVPR, 2017][[pdf]](https://arxiv.org/pdf/1611.05088.pdf)[[code]](https://github.com/lzrobots/DeepEmbeddingModel_ZSL)
+
+### Other
 + [Recent Advances in Zero-shot Recognition](https://arxiv.org/pdf/1710.04837.pdf) [arXiv, 2017]
 + [Improving Semantic Embedding Consistency by
 Metric Learning for Zero-Shot Classification](https://arxiv.org/pdf/1607.08085.pdf)[ECCV, 2016]

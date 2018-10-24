@@ -3,29 +3,24 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Papers
-<<<<<<< HEAD
-#2018
-+ [Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs](https://arxiv.org/pdf/1803.08035.pdf) [CVPR, 2018]
-+ [Preserving Semantic Relations for Zero-Shot Learning](https://arxiv.org/pdf/1803.03049.pdf) [CVPR, 2018]
-#2017
-
-+ [Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://arxiv.org/pdf/1707.00600.pdf) [TPAMI, 2018]
-+ [Towards Effective Deep Embedding for Zero-Shot Learning](https://arxiv.org/pdf/1808.10075.pdf)[arXiv, 2018]
-+ [Global Semantic Consistency for Zero-Shot Learning](https://arxiv.org/pdf/1806.08503.pdf)[CVPR, 2018]
-=======
 
 ### CVPR 2018
 
-+ **GCN:**  Xiaolong Wang; Yufei Ye; Abhinav Gupta. "Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs." CVPR (2018). [[pdf](https://arxiv.org/pdf/1803.08035.pdf)] [[code](https://github.com/JudyYe/zero-shot-gcn)]
-+ **PSR:** Yashas Annadani; Soma Biswas. "Preserving Semantic Relations for Zero-Shot Learning." CVPR (2018). [[pdf](https://arxiv.org/pdf/1803.03049.pdf)]
-+ **GAN-NT:** Yizhe Zhu; Mohamed Elhoseiny; Bingchen Liu; Xi Peng; Ahmed Elgammal. "A Generative Adversarial Approach for Zero-Shot Learning From Noisy Texts." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhu_A_Generative_Adversarial_CVPR_2018_paper.pdf)]
++ **GCN:**  Xiaolong Wang, Yufei Ye, Abhinav Gupta. "Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs." CVPR (2018). [[pdf](https://arxiv.org/pdf/1803.08035.pdf)] [[code](https://github.com/JudyYe/zero-shot-gcn)]
++ **PSR:** Yashas Annadani, Soma Biswas. "Preserving Semantic Relations for Zero-Shot Learning." CVPR (2018). [[pdf](https://arxiv.org/pdf/1803.03049.pdf)]
++ **GAN-NT:** Yizhe Zhu, Mohamed Elhoseiny, Bingchen Liu, Xi Peng, Ahmed Elgammal. "A Generative Adversarial Approach for Zero-Shot Learning From Noisy Texts." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhu_A_Generative_Adversarial_CVPR_2018_paper.pdf)]
++ **TUE:** Jie Song, Chengchao Shen, Yezhou Yang, Yang Liu, Mingli Song. "Transductive Unbiased Embedding for Zero-Shot Learning." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Song_Transductive_Unbiased_Embedding_CVPR_2018_paper.pdf)]
++ **SP-AEN:** Long Chen, Hanwang Zhang, Jun Xiao, Wei Liu, Shih-Fu Chang. "Zero-Shot Visual Recognition Using Semantics-Preserving Adversarial Embedding Networks." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Zero-Shot_Visual_Recognition_CVPR_2018_paper.pdf)] [[code](https://github.com/zjuchenlong/sp-aen.cvpr18)]
++ **ML-SKG:** Chung-Wei Lee, Wei Fang, Chih-Kuan Yeh, Yu-Chiang Frank Wang. "Multi-Label Zero-Shot Learning With Structured Knowledge Graphs." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)] [[project](https://people.csail.mit.edu/weifang/project/vll18-mlzsl/)]
++ **GZSL-SE:** Vinay Kumar Verma, Gundeep Arora, Ashish Mishra, Piyush Rai. "Generalized Zero-Shot Learning via Synthesized Examples." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Verma_Generalized_Zero-Shot_Learning_CVPR_2018_paper.pdf)]
++ **FGN:** Yongqin Xian, Tobias Lorenz, Bernt Schiele, Zeynep Akata. "Feature Generating Networks for Zero-Shot Learning." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_Feature_Generating_Networks_CVPR_2018_paper.pdf)] [[code](http://datasets.d2.mpi-inf.mpg.de/xian/cvpr18xian.zip)] [[project](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/feature-generating-networks-for-zero-shot-learning/)]
 
 ### TPAMI 2018
 
 + **C-GUB:** Yongqin Xian; Christoph H. Lampert; Bernt Schiele; Zeynep Akata. "Zero-shot learning-A comprehensive evaluation of the good, the bad and the ugly." TPAMI (2018). [[pdf](https://arxiv.org/pdf/1707.00600.pdf)] 
 
-### CVPR 2017 
->>>>>>> 2602b7e8dd2bc65df6d10ff16b77580dc1a028e0
+### CVPR 2017
+
 + [Zero-Shot learning - The Good, the Bad and the Ugly](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.pdf) [CVPR, 2017]
 + [Recent Advances in Zero-shot Recognition](https://arxiv.org/pdf/1710.04837.pdf) [arXiv, 2017]
 + [Learning a Deep Embedding Model for Zero-Shot Learning](https://arxiv.org/pdf/1611.05088.pdf) [CVPR, 2017]

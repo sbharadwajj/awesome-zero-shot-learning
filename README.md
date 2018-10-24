@@ -18,7 +18,7 @@
 
 ### TPAMI 2018
 
-+ **C-GUB:** Yongqin Xian; Christoph H. Lampert; Bernt Schiele; Zeynep Akata. "Zero-shot learning-A comprehensive evaluation of the good, the bad and the ugly." TPAMI (2018). [[pdf]](https://arxiv.org/pdf/1707.00600.pdf)] [[project]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly/)
++ **C-GUB:** Yongqin Xian; Christoph H. Lampert; Bernt Schiele; Zeynep Akata. "Zero-shot learning-A comprehensive evaluation of the good, the bad and the ugly." TPAMI (2018). [[pdf](https://arxiv.org/pdf/1707.00600.pdf)] [[project](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly/)]
 
 ### CVPR 2017
 

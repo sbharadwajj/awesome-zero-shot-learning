@@ -26,6 +26,10 @@
 + **Deep-SCoRe:** Pedro Morgado, Nuno Vasconcelos."Semantically Consistent Regularization for Zero-Shot Recognition." CVPR (2017). [[pdf](http://www.svcl.ucsd.edu/~morgado/score/score-cvpr17.pdf)] [[code](https://github.com/pedro-morgado/score-zeroshot)]
 + **DEM:** Li Zhang, Tao Xiang, Shaogang Gong. "Learning a Deep Embedding Model for Zero-Shot Learning." CVPR (2017). [[pdf](https://arxiv.org/pdf/1611.05088.pdf)] [[code](https://github.com/lzrobots/DeepEmbeddingModel_ZSL)]
 + **VDS:** Yang Long, Li Liu, Ling Shao, Fumin Shen, Guiguang Ding, Jungong Han. "From Zero-Shot Learning to Conventional Supervised Classification: Unseen Visual Data Synthesis." CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/html/Long_From_Zero-Shot_Learning_CVPR_2017_paper.html)]
++ **ESD:** Zhengming Ding, Ming Shao, Yun Fu. "Low-Rank Embedded Ensemble Semantic Dictionary for Zero-Shot Learning." CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ding_Low-Rank_Embedded_Ensemble_CVPR_2017_paper.pdf)]
++ **SAE:** Elyor Kodirov, Tao Xiang, Shaogang Gong. "Semantic Autoencoder for Zero-Shot Learning." CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.pdf)] [[code](https://github.com/Elyorcv/SAE)]
++ **DVSM:** Yanan Li, Donghui Wang, Huanhang Hu, Yuetan Lin, Yueting Zhuang. "Zero-Shot Recognition Using Dual Visual-Semantic Mapping Paths". CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Zero-Shot_Recognition_Using_CVPR_2017_paper.pdf)]
++ **MTF-MR:** Xing Xu, Fumin Shen, Yang Yang, Dongxiang Zhang, Heng Tao Shen, Jingkuan Song. "Matrix Tri-Factorization With Manifold Regularizations for Zero-Shot Learning." CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Matrix_Tri-Factorization_With_CVPR_2017_paper.pdf)]  
 
 ### Other Papers
 + [Recent Advances in Zero-shot Recognition](https://arxiv.org/pdf/1710.04837.pdf) [arXiv, 2017]

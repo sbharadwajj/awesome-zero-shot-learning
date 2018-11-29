@@ -22,7 +22,7 @@
 + **ML-SKG:** Chung-Wei Lee, Wei Fang, Chih-Kuan Yeh, Yu-Chiang Frank Wang. "Multi-Label Zero-Shot Learning With Structured Knowledge Graphs." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)] [[project](https://people.csail.mit.edu/weifang/project/vll18-mlzsl/)]
 + **GZSL-SE:** Vinay Kumar Verma, Gundeep Arora, Ashish Mishra, Piyush Rai. "Generalized Zero-Shot Learning via Synthesized Examples." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Verma_Generalized_Zero-Shot_Learning_CVPR_2018_paper.pdf)]
 + **FGN:** Yongqin Xian, Tobias Lorenz, Bernt Schiele, Zeynep Akata. "Feature Generating Networks for Zero-Shot Learning." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_Feature_Generating_Networks_CVPR_2018_paper.pdf)] [[code](http://datasets.d2.mpi-inf.mpg.de/xian/cvpr18xian.zip)] [[project](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/feature-generating-networks-for-zero-shot-learning/)]
-+ **LDF:** Yan Li, Junge Zhang, Jianguo Zhang, Kaiqi Huang. "Discriminative Learning of Latent Features for Zero-Shot Recognition." [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Discriminative_Learning_of_CVPR_2018_paper.pdf) 
++ **LDF:** Yan Li, Junge Zhang, Jianguo Zhang, Kaiqi Huang. "Discriminative Learning of Latent Features for Zero-Shot Recognition." CVPR (2018). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Discriminative_Learning_of_CVPR_2018_paper.pdf) 
 
 #### TPAMI 2018
 
@@ -31,7 +31,7 @@
 #### ICCV 2017
 
 + **A2C:** Berkan Demirel, Ramazan Gokberk Cinbis, Nazli Ikizler-Cinbis. "Attributes2Classname: A Discriminative Model for Attribute-Based Unsupervised Zero-Shot Learning." ICCV (2017). [[pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Demirel_Attributes2Classname_A_Discriminative_ICCV_2017_paper.pdf)]
-+ **PVE:** Soravit Changpinyo, Wei-Lun Chao, Fei Sha. "Predicting Visual Exemplars of Unseen Classes for Zero-Shot Learning." ICCV (2017). [[pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Changpinyo_Predicting_Visual_Exemplars_ICCV_2017_paper.pdf)]
++ **PVE:** Soravit Changpinyo, Wei-Lun Chao, Fei Sha. "Predicting Visual Exemplars of Unseen Classes for Zero-Shot Learning." ICCV (2017). [[pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Changpinyo_Predicting_Visual_Exemplars_ICCV_2017_paper.pdf)][[code](https://github.com/pujols/Zero-shot-learning-journal)]
 + **LDL:** Huajie Jiang, Ruiping Wang, Shiguang Shan, Yi Yang, Xilin Chen. "Learning Discriminative Latent Attributes for Zero-Shot Classification." ICCV (2017). [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Jiang_Learning_Discriminative_Latent_ICCV_2017_paper.pdf)]
 
 #### CVPR 2017
@@ -45,7 +45,15 @@
 + **DVSM:** Yanan Li, Donghui Wang, Huanhang Hu, Yuetan Lin, Yueting Zhuang. "Zero-Shot Recognition Using Dual Visual-Semantic Mapping Paths". CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Zero-Shot_Recognition_Using_CVPR_2017_paper.pdf)]
 + **MTF-MR:** Xing Xu, Fumin Shen, Yang Yang, Dongxiang Zhang, Heng Tao Shen, Jingkuan Song. "Matrix Tri-Factorization With Manifold Regularizations for Zero-Shot Learning." CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Matrix_Tri-Factorization_With_CVPR_2017_paper.pdf)]  
 
+#### CVPR 2016
 
++ **MC-ZSL:** Zeynep Akata, Mateusz Malinowski, Mario Fritz, Bernt Schiele. "Multi-Cue Zero-Shot Learning With Strong Supervision." CVPR (2016). [[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Akata_Multi-Cue_Zero-Shot_Learning_CVPR_2016_paper.pdf)]
++ **LATEM:** Yongqin Xian, Zeynep Akata, Gaurav Sharma, Quynh Nguyen, Matthias Hein, Bernt Schiele. "Latent Embeddings for Zero-Shot Classification." CVPR (2016). [[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Xian_Latent_Embeddings_for_CVPR_2016_paper.pdf)][[code](http://datasets.d2.mpi-inf.mpg.de/yxian16cvpr/latEm.zip)]
++ **LIM:** Ruizhi Qiao, Lingqiao Liu, Chunhua Shen, Anton van den Hengel. "Less Is More: Zero-Shot Learning From Online Textual Documents With Noise Suppression." CVPR (2016). [[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Qiao_Less_Is_More_CVPR_2016_paper.pdf)]
++ **SYNC:** Soravit Changpinyo, Wei-Lun Chao, Boqing Gong, Fei Sha. "Synthesized Classifiers for Zero-Shot Learning." CVPR (2016). [[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Changpinyo_Synthesized_Classifiers_for_CVPR_2016_paper.pdf)][[code](https://github.com/pujols/zero-shot-learning)]
++ **RML:** Ziad Al-Halah, Makarand Tapaswi, Rainer Stiefelhagen. "Recovering the Missing Link: Predicting Class-Attribute Associations for Unsupervised Zero-Shot Learning." CVPR (2016). [[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Al-Halah_Recovering_the_Missing_CVPR_2016_paper.pdf)]
++ **SLE:** Ziming Zhang, Venkatesh Saligrama. "Zero-Shot Learning via Joint Latent Similarity Embedding." CVPR (2016). [[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Zero-Shot_Learning_via_CVPR_2016_paper.pdf)] [[code](https://drive.google.com/file/d/1RimUgUlf2tfpntzlxdlYaAvm34HX0fUb/view?usp=sharing)]
++
 #### Other Papers
 + [Recent Advances in Zero-shot Recognition](https://arxiv.org/pdf/1710.04837.pdf) [arXiv, 2017]
 + [Improving Semantic Embedding Consistency by

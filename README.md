@@ -60,6 +60,13 @@
 + **RML:** Ziad Al-Halah, Makarand Tapaswi, Rainer Stiefelhagen. "Recovering the Missing Link: Predicting Class-Attribute Associations for Unsupervised Zero-Shot Learning." CVPR (2016). [[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Al-Halah_Recovering_the_Missing_CVPR_2016_paper.pdf)]
 + **SLE:** Ziming Zhang, Venkatesh Saligrama. "Zero-Shot Learning via Joint Latent Similarity Embedding." CVPR (2016). [[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Zero-Shot_Learning_via_CVPR_2016_paper.pdf)] [[code](https://drive.google.com/file/d/1RimUgUlf2tfpntzlxdlYaAvm34HX0fUb/view?usp=sharing)]
 +
+
+#### NIPS 2014, 2013, 2009
++ Dinesh Jayram, Kristen Grauman."Zero-Shot Recognition with Unreliable Attributes" NIPS (2014) [[pdf]](https://papers.nips.cc/paper/5290-zero-shot-recognition-with-unreliable-attributes.pdf)
++ Richard Socher, Milind Ganjoo, Christopher D. Manning, Andrew Y. Ng. "Zero-Shot Learning Through Cross-Modal Transfer" NIPS (2013) [[pdf]](https://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf)
++ **DeViSE:** Andrea Frome, Greg S. Corrado, Jonathon Shlens, Samy Bengio, Jeffrey Dean, Marc’Aurelio Ranzato, Tomas Mikolov."DeViSE: A Deep Visual-Semantic Embedding Model" NIPS (2013) [[pdf]](https://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model.pdf)
++ Mark Palatucci, Dean Pomerleau, Geoffrey Hinton, Tom M. Mitchell. "Zero-Shot Learning with Semantic Output Codes" NIPS (2009) [[pdf]](https://papers.nips.cc/paper/3650-zero-shot-learning-with-semantic-output-codes.pdf)
+
 #### Other Papers
 + [Recent Advances in Zero-shot Recognition](https://arxiv.org/pdf/1710.04837.pdf) [arXiv, 2017]
 + [Improving Semantic Embedding Consistency by

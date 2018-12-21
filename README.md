@@ -59,7 +59,13 @@
 + **SYNC:** Soravit Changpinyo, Wei-Lun Chao, Boqing Gong, Fei Sha. "Synthesized Classifiers for Zero-Shot Learning." CVPR (2016). [[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Changpinyo_Synthesized_Classifiers_for_CVPR_2016_paper.pdf)][[code](https://github.com/pujols/zero-shot-learning)]
 + **RML:** Ziad Al-Halah, Makarand Tapaswi, Rainer Stiefelhagen. "Recovering the Missing Link: Predicting Class-Attribute Associations for Unsupervised Zero-Shot Learning." CVPR (2016). [[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Al-Halah_Recovering_the_Missing_CVPR_2016_paper.pdf)]
 + **SLE:** Ziming Zhang, Venkatesh Saligrama. "Zero-Shot Learning via Joint Latent Similarity Embedding." CVPR (2016). [[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Zero-Shot_Learning_via_CVPR_2016_paper.pdf)] [[code](https://drive.google.com/file/d/1RimUgUlf2tfpntzlxdlYaAvm34HX0fUb/view?usp=sharing)]
-+
+
+
+#### ECCV 2016
++ Wei-Lun Chao, Soravit Changpinyo, Boqing Gong2, Fei Sha. "An Empirical Study and Analysis of Generalized Zero-Shot Learning for Object Recognition in the Wild." ECCV (2016). [[pdf]](https://arxiv.org/pdf/1605.04253.pdf)
++ **MTE:** Xun Xu, Timothy M. Hospedales, Shaogang Gong. "Multi-Task Zero-Shot Action Recognition with Prioritised Data Augmentation." ECCV (2016). [[pdf]](https://arxiv.org/pdf/1611.08663.pdf)
++ Ziming Zhang, Venkatesh Saligrama."Zero-Shot Recognition via Structured Prediction." ECCV (2016). [[pdf]](https://pdfs.semanticscholar.org/be96/1637db8561b027fd48788c64e7919c7cd760.pdf)
++ Maxime Bucher, Stephane Herbin, Frederic Jurie."Improving Semantic Embedding Consistency by Metric Learning for Zero-Shot Classification." ECCV (2016). [[pdf]](https://arxiv.org/pdf/1607.08085.pdf)
 
 #### NIPS 2014, 2013, 2009
 + Dinesh Jayram, Kristen Grauman."Zero-Shot Recognition with Unreliable Attributes" NIPS (2014) [[pdf]](https://papers.nips.cc/paper/5290-zero-shot-recognition-with-unreliable-attributes.pdf)

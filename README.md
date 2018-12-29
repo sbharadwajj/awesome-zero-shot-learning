@@ -67,6 +67,9 @@
 + Ziming Zhang, Venkatesh Saligrama."Zero-Shot Recognition via Structured Prediction." ECCV (2016). [[pdf]](https://pdfs.semanticscholar.org/be96/1637db8561b027fd48788c64e7919c7cd760.pdf)
 + Maxime Bucher, Stephane Herbin, Frederic Jurie."Improving Semantic Embedding Consistency by Metric Learning for Zero-Shot Classification." ECCV (2016). [[pdf]](https://arxiv.org/pdf/1607.08085.pdf)
 
+#### CVPR 2015
++ Zhenyong Fu, Tao Xiang, Elyor Kodirov, Shaogang Gong. "Zero-Shot Object Recognition by Semantic Manifold Distance." CVPR (2015). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Fu_Zero-Shot_Object_Recognition_2015_CVPR_paper.pdf)
+
 #### NIPS 2014, 2013, 2009
 + Dinesh Jayram, Kristen Grauman."Zero-Shot Recognition with Unreliable Attributes" NIPS (2014) [[pdf]](https://papers.nips.cc/paper/5290-zero-shot-recognition-with-unreliable-attributes.pdf)
 + Richard Socher, Milind Ganjoo, Christopher D. Manning, Andrew Y. Ng. "Zero-Shot Learning Through Cross-Modal Transfer" NIPS (2013) [[pdf]](https://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf)

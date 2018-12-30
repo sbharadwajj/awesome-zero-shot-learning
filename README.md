@@ -28,6 +28,7 @@
 + **GZSL-SE:** Vinay Kumar Verma, Gundeep Arora, Ashish Mishra, Piyush Rai. "Generalized Zero-Shot Learning via Synthesized Examples." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Verma_Generalized_Zero-Shot_Learning_CVPR_2018_paper.pdf)]
 + **FGN:** Yongqin Xian, Tobias Lorenz, Bernt Schiele, Zeynep Akata. "Feature Generating Networks for Zero-Shot Learning." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_Feature_Generating_Networks_CVPR_2018_paper.pdf)] [[code](http://datasets.d2.mpi-inf.mpg.de/xian/cvpr18xian.zip)] [[project](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/feature-generating-networks-for-zero-shot-learning/)]
 + **LDF:** Yan Li, Junge Zhang, Jianguo Zhang, Kaiqi Huang. "Discriminative Learning of Latent Features for Zero-Shot Recognition." CVPR (2018). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Discriminative_Learning_of_CVPR_2018_paper.pdf) 
++ **WSL:** Li Niu, Ashok Veeraraghavan, and Ashu Sabharwal. "Webly Supervised Learning Meets Zero-shot Learning: A Hybrid Approach for Fine-grained Classification." CVPR (2018). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Niu_Webly_Supervised_Learning_CVPR_2018_paper.pdf)
 
 #### TPAMI 2018
 
@@ -47,7 +48,7 @@
 + **DEM:** Li Zhang, Tao Xiang, Shaogang Gong. "Learning a Deep Embedding Model for Zero-Shot Learning." CVPR (2017). [[pdf](https://arxiv.org/pdf/1611.05088.pdf)] [[code](https://github.com/lzrobots/DeepEmbeddingModel_ZSL)]
 + **VDS:** Yang Long, Li Liu, Ling Shao, Fumin Shen, Guiguang Ding, Jungong Han. "From Zero-Shot Learning to Conventional Supervised Classification: Unseen Visual Data Synthesis." CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/html/Long_From_Zero-Shot_Learning_CVPR_2017_paper.html)]
 + **ESD:** Zhengming Ding, Ming Shao, Yun Fu. "Low-Rank Embedded Ensemble Semantic Dictionary for Zero-Shot Learning." CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ding_Low-Rank_Embedded_Ensemble_CVPR_2017_paper.pdf)]
-+ **SAE:** Elyor Kodirov, Tao Xiang, Shaogang Gong. "Semantic Autoencoder for Zero-Shot Learning." CVPR (2017). [[pdf]] (http://openaccess.thecvf.com/content_cvpr_2017/papers/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.pdf) [[code](https://github.com/Elyorcv/SAE)]
++ **SAE:** Elyor Kodirov, Tao Xiang, Shaogang Gong. "Semantic Autoencoder for Zero-Shot Learning." CVPR (2017). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.pdf) [[code](https://github.com/Elyorcv/SAE)]
 + **DVSM:** Yanan Li, Donghui Wang, Huanhang Hu, Yuetan Lin, Yueting Zhuang. "Zero-Shot Recognition Using Dual Visual-Semantic Mapping Paths". CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Zero-Shot_Recognition_Using_CVPR_2017_paper.pdf)]
 + **MTF-MR:** Xing Xu, Fumin Shen, Yang Yang, Dongxiang Zhang, Heng Tao Shen, Jingkuan Song. "Matrix Tri-Factorization With Manifold Regularizations for Zero-Shot Learning." CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Matrix_Tri-Factorization_With_CVPR_2017_paper.pdf)]  
 
@@ -77,6 +78,7 @@
 + Mark Palatucci, Dean Pomerleau, Geoffrey Hinton, Tom M. Mitchell. "Zero-Shot Learning with Semantic Output Codes" NIPS (2009) [[pdf]](https://papers.nips.cc/paper/3650-zero-shot-learning-with-semantic-output-codes.pdf)
 
 #### Other Papers
++ **AEZSL:** "Zero-Shot Learning via Category-Specific Visual-Semantic Mapping and Label Refinement" IEEE SPS (2018). [[pdf]](https://ieeexplore.ieee.org/document/8476580)
 + **ZSGD:** Tiancheng Zhao, Maxine Eskenazi. "Zero-Shot Dialog Generation with Cross-Domain Latent Actions" SIGDIAL (2018). [[pdf]](https://arxiv.org/abs/1805.04803v1) [[code]](https://github.com/snakeztc/NeuralDialog-ZSDG)
 + [Recent Advances in Zero-shot Recognition](https://arxiv.org/pdf/1710.04837.pdf) [arXiv, 2017]
 + Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing "Rethinking Knowledge Graph Propagation for Zero-Shot Learning" arXiv (2018). [[pdf]](https://arxiv.org/pdf/1805.11724v2.pdf) [[code]](https://github.com/cyvius96/adgpm)

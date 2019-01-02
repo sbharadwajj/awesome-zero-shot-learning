@@ -7,9 +7,9 @@
 ### Papers
 
 #### NeurIPS 2018
- + **DCN:** Shichen Liu, Mingsheng Long, Jianmin Wang, Michael I. Jordan."Generalized Zero-Shot Learning with Deep Calibration Network" NeurIPS (2018) [[pdf]](http://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network.pdf)
-+ **S2GA:** Yunlong Yu, Zhong Ji, Yanwei Fu, Jichang Guo, Yanwei Pang, Zhongfei (Mark) Zhang."Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning." NeurIPS (2018) [[pdf]](http://papers.nips.cc/paper/7839-stacked-semantics-guided-attention-model-for-fine-grained-zero-shot-learning.pdf)
-+ **DIPL:** An Zhao, Mingyu Ding, Jiechao Guan, Zhiwu Lu, Tao Xiang, Ji-Rong Wen "Domain-Invariant Projection Learning for Zero-Shot Recognition." NeurIPS (2018) [[pdf]](http://papers.nips.cc/paper/7380-domain-invariant-projection-learning-for-zero-shot-recognition.pdf)
+ + **DCN:** Shichen Liu, Mingsheng Long, Jianmin Wang, Michael I. Jordan."Generalized Zero-Shot Learning with Deep Calibration Network" NeurIPS (2018). [[pdf]](http://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network.pdf)
++ **S2GA:** Yunlong Yu, Zhong Ji, Yanwei Fu, Jichang Guo, Yanwei Pang, Zhongfei (Mark) Zhang."Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning." NeurIPS (2018). [[pdf]](http://papers.nips.cc/paper/7839-stacked-semantics-guided-attention-model-for-fine-grained-zero-shot-learning.pdf)
++ **DIPL:** An Zhao, Mingyu Ding, Jiechao Guan, Zhiwu Lu, Tao Xiang, Ji-Rong Wen "Domain-Invariant Projection Learning for Zero-Shot Recognition." NeurIPS (2018). [[pdf]](http://papers.nips.cc/paper/7380-domain-invariant-projection-learning-for-zero-shot-recognition.pdf)
 
 #### ECCV 2018
 + **SZSL:** Jie Song, Chengchao Shen, Jie Lei, An-Xiang Zeng, Kairi Ou, Dacheng Tao, Mingli Song. "Selective Zero-Shot Classification with Augmented Attributes." ECCV (2018). [[pdf](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jie_Song_Selective_Zero-Shot_Classification_ECCV_2018_paper.pdf)]
@@ -72,9 +72,8 @@
 + Zhenyong Fu, Tao Xiang, Elyor Kodirov, Shaogang Gong. "Zero-Shot Object Recognition by Semantic Manifold Distance." CVPR (2015). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Fu_Zero-Shot_Object_Recognition_2015_CVPR_paper.pdf)
 
 #### ICCV 2015
-+ **SSE:** Ziming Zhang, Venkatesh Saligrama. "Zero-Shot Learning via Semantic Similarity Embedding." ICCV (2015).[[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhang_Zero-Shot_Learning_via_ICCV_2015_paper.pdf)
-+ **LRL:** Xin Li, Yuhong Guo, Dale Schuurmans."Semi-Supervised Zero-Shot Classification with Label Representation Learning." ICCV (2015). [[pdf]]
-(https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Li_Semi-Supervised_Zero-Shot_Classification_ICCV_2015_paper.pdf)
++ **SSE:** Ziming Zhang, Venkatesh Saligrama. "Zero-Shot Learning via Semantic Similarity Embedding." ICCV (2015). [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhang_Zero-Shot_Learning_via_ICCV_2015_paper.pdf)
++ **LRL:** Xin Li, Yuhong Guo, Dale Schuurmans."Semi-Supervised Zero-Shot Classification with Label Representation Learning." ICCV (2015). [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Li_Semi-Supervised_Zero-Shot_Classification_ICCV_2015_paper.pdf)
 + **UDA:** Elyor Kodirov, Tao Xiang, Zhenyong Fu, Shaogang Gong. "Unsupervised Domain Adaptation for Zero-Shot Learning." ICCV (2015). [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kodirov_Unsupervised_Domain_Adaptation_ICCV_2015_paper.pdf)
 + Jimmy Lei Ba, Kevin Swersky, Sanja Fidler, Ruslan Salakhutdinov. "Predicting Deep Zero-Shot Convolutional Neural Networks using Textual Descriptions." ICCV (2015). [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ba_Predicting_Deep_Zero-Shot_ICCV_2015_paper.pdf)
 
@@ -85,11 +84,11 @@
 + Mark Palatucci, Dean Pomerleau, Geoffrey Hinton, Tom M. Mitchell. "Zero-Shot Learning with Semantic Output Codes" NIPS (2009) [[pdf]](https://papers.nips.cc/paper/3650-zero-shot-learning-with-semantic-output-codes.pdf)
 
 #### Other Papers
++ **EsZSL:** Bernardino Romera-Paredes, Philip H. S. Torr. "An embarrassingly simple approach to zero-shot learning." ICML (2015). [[pdf]](http://proceedings.mlr.press/v37/romera-paredes15.pdf) [(Code)](https://github.com/MLWave/extremely-simple-one-shot-learning)
 + **AEZSL:** "Zero-Shot Learning via Category-Specific Visual-Semantic Mapping and Label Refinement" IEEE SPS (2018). [[pdf]](https://ieeexplore.ieee.org/document/8476580)
 + **ZSGD:** Tiancheng Zhao, Maxine Eskenazi. "Zero-Shot Dialog Generation with Cross-Domain Latent Actions" SIGDIAL (2018). [[pdf]](https://arxiv.org/abs/1805.04803v1) [[code]](https://github.com/snakeztc/NeuralDialog-ZSDG)
-+ [Recent Advances in Zero-shot Recognition](https://arxiv.org/pdf/1710.04837.pdf) [arXiv, 2017]
++ Yanwei Fu, Tao Xiang, Yu-Gang Jiang, Xiangyang Xue, Leonid Sigal, Shaogang Gong "Recent Advances in Zero-shot Recognition".  IEEE Signal Processing Magazine. [[pdf]](https://arxiv.org/pdf/1710.04837.pdf) [arXiv, 2017]
 + Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing "Rethinking Knowledge Graph Propagation for Zero-Shot Learning" arXiv (2018). [[pdf]](https://arxiv.org/pdf/1805.11724v2.pdf) [[code]](https://github.com/cyvius96/adgpm)
-+ [An embarrassingly simple approach to zero-shot learning](http://proceedings.mlr.press/v37/romera-paredes15.pdf) [ICML, 2015] [(Code)](https://github.com/MLWave/extremely-simple-one-shot-learning)
 
 ### Datasets
 + [Large-scale attribute Dataset](https://github.com/PatrickZH/A-Large-scale-Attribute-Dataset-for-Zero-shot-Learning)

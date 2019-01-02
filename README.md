@@ -1,6 +1,11 @@
 # Zero-Shot Learning
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of resources including papers, comparitive results on standard datasets and relevant links pertaining to zero-shot learning.  
+
+## Contributing
+
+Contributions are welcome. Please see the [issue](https://github.com/chichilicious/awesome-zero-shot-learning/issues/2) which lists the things which are planned to be included in this repo. If you wish to contribute within these boundaries, feel free to send a PR. If you have suggestions for new sections to be included, please raise an issue and discuss before sending a PR.
 
 ## Zero-Shot Object Classification
 

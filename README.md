@@ -86,6 +86,13 @@
 
 ### Datasets
 + [Large-scale attribute Dataset](https://github.com/PatrickZH/A-Large-scale-Attribute-Dataset-for-Zero-shot-Learning)
++ [AWA](https://cvml.ist.ac.at/AwA/)
++ [AWA2](https://cvml.ist.ac.at/AwA2/)
++ [CUB 200-2011](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
++ [SUN](http://cs.brown.edu/~gmpatter/sunattributes.html)
++ [aPY](http://vision.cs.uiuc.edu/attributes/)
++ [Flowers dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/)
++ [Imagenet 21k set](image-net.org)
 
 ## Other resources
 + https://medium.com/@alitech_2017/from-zero-to-hero-shaking-up-the-field-of-zero-shot-learning-c43208f71332

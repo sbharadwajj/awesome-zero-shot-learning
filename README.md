@@ -57,7 +57,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 + **SAE:** Elyor Kodirov, Tao Xiang, Shaogang Gong. "Semantic Autoencoder for Zero-Shot Learning." CVPR (2017). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.pdf) [[code](https://github.com/Elyorcv/SAE)]
 + **DVSM:** Yanan Li, Donghui Wang, Huanhang Hu, Yuetan Lin, Yueting Zhuang. "Zero-Shot Recognition Using Dual Visual-Semantic Mapping Paths". CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Zero-Shot_Recognition_Using_CVPR_2017_paper.pdf)]
 + **MTF-MR:** Xing Xu, Fumin Shen, Yang Yang, Dongxiang Zhang, Heng Tao Shen, Jingkuan Song. "Matrix Tri-Factorization With Manifold Regularizations for Zero-Shot Learning." CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Matrix_Tri-Factorization_With_CVPR_2017_paper.pdf)]
-+ Nour Karessli1, Zeynep Akata, Bernt Schiele, Andreas Bulling. "Gaze Embeddings for Zero-Shot Image Classification." CVPR (2017). [[pdf]](https://arxiv.org/pdf/1611.09309.pdf) [[code]](https://github.com/Noura-kr/CVPR17)
++ Nour Karessli, Zeynep Akata, Bernt Schiele, Andreas Bulling. "Gaze Embeddings for Zero-Shot Image Classification." CVPR (2017). [[pdf]](https://arxiv.org/pdf/1611.09309.pdf) [[code]](https://github.com/Noura-kr/CVPR17)
 
 #### CVPR 2016
 
@@ -96,7 +96,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 #### ECCV 2014
 + **TMV-BLP:** Yanwei Fu, Timothy M. Hospedales, Tao Xiang, Zhenyong Fu, Shaogang Gong. "Transductive Multi-view Embedding for
-Zero-Shot Recognition and Annotation" ECCV (2014).[[pdf]](https://www.eecs.qmul.ac.uk/~txiang/publications/Fu_et_al_embedding_eccv2014.pdf) [[code]]((https://github.com/yanweifu/embedding_zero-shot-learning))
+Zero-Shot Recognition and Annotation" ECCV (2014).[[pdf]](https://www.eecs.qmul.ac.uk/~txiang/publications/Fu_et_al_embedding_eccv2014.pdf) [[code]](https://github.com/yanweifu/embedding_zero-shot-learning)
 + Stanislaw Antol, Larry Zitnick, Devi Parikh. "Zero-Shot Learning via Visual Abstraction." ECCV (2014). [[pdf]](https://computing.ece.vt.edu/~santol/projects/zsl_via_visual_abstraction/eccv2014_zsl_via_visual_abstraction.pdf) [[code]](https://github.com/StanislawAntol/zsl_via_visual_abstraction) [[project]](https://computing.ece.vt.edu/~santol/projects/zsl_via_visual_abstraction/)
 
 #### Other Papers

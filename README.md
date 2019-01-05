@@ -56,11 +56,12 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 + **ESD:** Zhengming Ding, Ming Shao, Yun Fu. "Low-Rank Embedded Ensemble Semantic Dictionary for Zero-Shot Learning." CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ding_Low-Rank_Embedded_Ensemble_CVPR_2017_paper.pdf)]
 + **SAE:** Elyor Kodirov, Tao Xiang, Shaogang Gong. "Semantic Autoencoder for Zero-Shot Learning." CVPR (2017). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.pdf) [[code](https://github.com/Elyorcv/SAE)]
 + **DVSM:** Yanan Li, Donghui Wang, Huanhang Hu, Yuetan Lin, Yueting Zhuang. "Zero-Shot Recognition Using Dual Visual-Semantic Mapping Paths". CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Zero-Shot_Recognition_Using_CVPR_2017_paper.pdf)]
-+ **MTF-MR:** Xing Xu, Fumin Shen, Yang Yang, Dongxiang Zhang, Heng Tao Shen, Jingkuan Song. "Matrix Tri-Factorization With Manifold Regularizations for Zero-Shot Learning." CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Matrix_Tri-Factorization_With_CVPR_2017_paper.pdf)]  
++ **MTF-MR:** Xing Xu, Fumin Shen, Yang Yang, Dongxiang Zhang, Heng Tao Shen, Jingkuan Song. "Matrix Tri-Factorization With Manifold Regularizations for Zero-Shot Learning." CVPR (2017). [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Matrix_Tri-Factorization_With_CVPR_2017_paper.pdf)]
++ Nour Karessli1, Zeynep Akata, Bernt Schiele, Andreas Bulling. "Gaze Embeddings for Zero-Shot Image Classification." CVPR (2017). [[pdf]](https://arxiv.org/pdf/1611.09309.pdf) [[code]](https://github.com/Noura-kr/CVPR17)
 
 #### CVPR 2016
 
-+ **MC-ZSL:** Zeynep Akata, Mateusz Malinowski, Mario Fritz, Bernt Schiele. "Multi-Cue Zero-Shot Learning With Strong Supervision." CVPR (2016). [[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Akata_Multi-Cue_Zero-Shot_Learning_CVPR_2016_paper.pdf)]
++ **MC-ZSL:** Zeynep Akata, Mateusz Malinowski, Mario Fritz, Bernt Schiele. "Multi-Cue Zero-Shot Learning With Strong Supervision." CVPR (2016). [[pdf] (http://openaccess.thecvf.com/content_cvpr_2016/papers/Akata_Multi-Cue_Zero-Shot_Learning_CVPR_2016_paper.pdf)] [[code]](https://www.mpi-inf.mpg.de/index.php?id=2935)
 + **LATEM:** Yongqin Xian, Zeynep Akata, Gaurav Sharma, Quynh Nguyen, Matthias Hein, Bernt Schiele. "Latent Embeddings for Zero-Shot Classification." CVPR (2016). [[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Xian_Latent_Embeddings_for_CVPR_2016_paper.pdf)][[code](http://datasets.d2.mpi-inf.mpg.de/yxian16cvpr/latEm.zip)]
 + **LIM:** Ruizhi Qiao, Lingqiao Liu, Chunhua Shen, Anton van den Hengel. "Less Is More: Zero-Shot Learning From Online Textual Documents With Noise Suppression." CVPR (2016). [[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Qiao_Less_Is_More_CVPR_2016_paper.pdf)]
 + **SYNC:** Soravit Changpinyo, Wei-Lun Chao, Boqing Gong, Fei Sha. "Synthesized Classifiers for Zero-Shot Learning." CVPR (2016). [[pdf](http://openaccess.thecvf.com/content_cvpr_2016/papers/Changpinyo_Synthesized_Classifiers_for_CVPR_2016_paper.pdf)][[code](https://github.com/pujols/zero-shot-learning)]
@@ -75,19 +76,28 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 + Maxime Bucher, Stephane Herbin, Frederic Jurie."Improving Semantic Embedding Consistency by Metric Learning for Zero-Shot Classification." ECCV (2016). [[pdf]](https://arxiv.org/pdf/1607.08085.pdf)
 
 #### CVPR 2015
++ Zeynep Akata, Scott Reed, Daniel Walter, Honglak Lee, Bernt Schiele. "Evaluation of Output Embeddings for Fine-Grained Image Classification." CVPR (2015). [[pdf]](https://www.mpi-inf.mpg.de/fileadmin/inf/d2/akata/1690.pdf) [[code]](https://www.mpi-inf.mpg.de/index.php?id=2325) 
 + Zhenyong Fu, Tao Xiang, Elyor Kodirov, Shaogang Gong. "Zero-Shot Object Recognition by Semantic Manifold Distance." CVPR (2015). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Fu_Zero-Shot_Object_Recognition_2015_CVPR_paper.pdf)
 
 #### ICCV 2015
-+ **SSE:** Ziming Zhang, Venkatesh Saligrama. "Zero-Shot Learning via Semantic Similarity Embedding." ICCV (2015). [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhang_Zero-Shot_Learning_via_ICCV_2015_paper.pdf)
++ **SSE:** Ziming Zhang, Venkatesh Saligrama. "Zero-Shot Learning via Semantic Similarity Embedding." ICCV (2015). [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhang_Zero-Shot_Learning_via_ICCV_2015_paper.pdf) [[code]](https://zimingzhang.wordpress.com/source-code/)
 + **LRL:** Xin Li, Yuhong Guo, Dale Schuurmans."Semi-Supervised Zero-Shot Classification with Label Representation Learning." ICCV (2015). [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Li_Semi-Supervised_Zero-Shot_Classification_ICCV_2015_paper.pdf)
 + **UDA:** Elyor Kodirov, Tao Xiang, Zhenyong Fu, Shaogang Gong. "Unsupervised Domain Adaptation for Zero-Shot Learning." ICCV (2015). [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kodirov_Unsupervised_Domain_Adaptation_ICCV_2015_paper.pdf)
 + Jimmy Lei Ba, Kevin Swersky, Sanja Fidler, Ruslan Salakhutdinov. "Predicting Deep Zero-Shot Convolutional Neural Networks using Textual Descriptions." ICCV (2015). [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ba_Predicting_Deep_Zero-Shot_ICCV_2015_paper.pdf)
 
+#### TPAMI 2015
++ **TMV:** Yanwei Fu, Timothy M. Hospedales, Tao Xiang, Shaogang Gong. "Transductive Multi-view Zero-Shot Learning." TPAMI (2015) [[pdf]](https://arxiv.org/pdf/1501.04560.pdf) [[code]](https://github.com/yanweifu/embedding_zero-shot-learning)
+
 #### NIPS 2014, 2013, 2009
 + Dinesh Jayram, Kristen Grauman."Zero-Shot Recognition with Unreliable Attributes" NIPS (2014) [[pdf]](https://papers.nips.cc/paper/5290-zero-shot-recognition-with-unreliable-attributes.pdf)
-+ Richard Socher, Milind Ganjoo, Christopher D. Manning, Andrew Y. Ng. "Zero-Shot Learning Through Cross-Modal Transfer" NIPS (2013) [[pdf]](https://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf)
++ **CMT:** Richard Socher, Milind Ganjoo, Christopher D. Manning, Andrew Y. Ng. "Zero-Shot Learning Through Cross-Modal Transfer" NIPS (2013) [[pdf]](https://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf)  [[code]](https://github.com/mganjoo/zslearning)
 + **DeViSE:** Andrea Frome, Greg S. Corrado, Jonathon Shlens, Samy Bengio, Jeffrey Dean, Marc’Aurelio Ranzato, Tomas Mikolov."DeViSE: A Deep Visual-Semantic Embedding Model" NIPS (2013) [[pdf]](https://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model.pdf)
 + Mark Palatucci, Dean Pomerleau, Geoffrey Hinton, Tom M. Mitchell. "Zero-Shot Learning with Semantic Output Codes" NIPS (2009) [[pdf]](https://papers.nips.cc/paper/3650-zero-shot-learning-with-semantic-output-codes.pdf)
+
+#### ECCV 2014
++ **TMV-BLP:** Yanwei Fu, Timothy M. Hospedales, Tao Xiang, Zhenyong Fu, Shaogang Gong. "Transductive Multi-view Embedding for
+Zero-Shot Recognition and Annotation" ECCV (2014).[[pdf]](https://www.eecs.qmul.ac.uk/~txiang/publications/Fu_et_al_embedding_eccv2014.pdf) [[code]]((https://github.com/yanweifu/embedding_zero-shot-learning))
++ Stanislaw Antol, Larry Zitnick, Devi Parikh. "Zero-Shot Learning via Visual Abstraction." ECCV (2014). [[pdf]](https://computing.ece.vt.edu/~santol/projects/zsl_via_visual_abstraction/eccv2014_zsl_via_visual_abstraction.pdf) [[code]](https://github.com/StanislawAntol/zsl_via_visual_abstraction) [[project]](https://computing.ece.vt.edu/~santol/projects/zsl_via_visual_abstraction/)
 
 #### Other Papers
 + **EsZSL:** Bernardino Romera-Paredes, Philip H. S. Torr. "An embarrassingly simple approach to zero-shot learning." ICML (2015). [[pdf]](http://proceedings.mlr.press/v37/romera-paredes15.pdf) [[Code]](https://github.com/MLWave/extremely-simple-one-shot-learning)

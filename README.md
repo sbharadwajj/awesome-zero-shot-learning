@@ -84,10 +84,10 @@
 + Mark Palatucci, Dean Pomerleau, Geoffrey Hinton, Tom M. Mitchell. "Zero-Shot Learning with Semantic Output Codes" NIPS (2009) [[pdf]](https://papers.nips.cc/paper/3650-zero-shot-learning-with-semantic-output-codes.pdf)
 
 #### Other Papers
-+ **EsZSL:** Bernardino Romera-Paredes, Philip H. S. Torr. "An embarrassingly simple approach to zero-shot learning." ICML (2015). [[pdf]](http://proceedings.mlr.press/v37/romera-paredes15.pdf) [(Code)](https://github.com/MLWave/extremely-simple-one-shot-learning)
++ **EsZSL:** Bernardino Romera-Paredes, Philip H. S. Torr. "An embarrassingly simple approach to zero-shot learning." ICML (2015). [[pdf]](http://proceedings.mlr.press/v37/romera-paredes15.pdf) [[Code]](https://github.com/MLWave/extremely-simple-one-shot-learning)
 + **AEZSL:** "Zero-Shot Learning via Category-Specific Visual-Semantic Mapping and Label Refinement" IEEE SPS (2018). [[pdf]](https://ieeexplore.ieee.org/document/8476580)
 + **ZSGD:** Tiancheng Zhao, Maxine Eskenazi. "Zero-Shot Dialog Generation with Cross-Domain Latent Actions" SIGDIAL (2018). [[pdf]](https://arxiv.org/abs/1805.04803v1) [[code]](https://github.com/snakeztc/NeuralDialog-ZSDG)
-+ Yanwei Fu, Tao Xiang, Yu-Gang Jiang, Xiangyang Xue, Leonid Sigal, Shaogang Gong "Recent Advances in Zero-shot Recognition".  IEEE Signal Processing Magazine. [[pdf]](https://arxiv.org/pdf/1710.04837.pdf) [arXiv, 2017]
++ Yanwei Fu, Tao Xiang, Yu-Gang Jiang, Xiangyang Xue, Leonid Sigal, Shaogang Gong "Recent Advances in Zero-shot Recognition".  IEEE Signal Processing Magazine. [[pdf]](https://arxiv.org/pdf/1710.04837.pdf)
 + Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing "Rethinking Knowledge Graph Propagation for Zero-Shot Learning" arXiv (2018). [[pdf]](https://arxiv.org/pdf/1805.11724v2.pdf) [[code]](https://github.com/cyvius96/adgpm)
 
 ### Datasets

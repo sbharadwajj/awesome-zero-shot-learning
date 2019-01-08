@@ -107,14 +107,14 @@ Zero-Shot Recognition and Annotation" ECCV (2014).[[pdf]](https://www.eecs.qmul.
 + Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing "Rethinking Knowledge Graph Propagation for Zero-Shot Learning" arXiv (2018). [[pdf]](https://arxiv.org/pdf/1805.11724v2.pdf) [[code]](https://github.com/cyvius96/adgpm)
 
 ### Datasets
-+ [Large-scale attribute Dataset](https://github.com/PatrickZH/A-Large-scale-Attribute-Dataset-for-Zero-shot-Learning)
-+ [AWA](https://cvml.ist.ac.at/AwA/)
-+ [AWA2](https://cvml.ist.ac.at/AwA2/)
-+ [CUB 200-2011](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
-+ [SUN](http://cs.brown.edu/~gmpatter/sunattributes.html)
-+ [aPY](http://vision.cs.uiuc.edu/attributes/)
-+ [Flowers dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/)
-+ [Imagenet 21k set](image-net.org)
++ **LAD:** Large-scale Attribute Dataset. Categories:230. [[link]](https://github.com/PatrickZH/A-Large-scale-Attribute-Dataset-for-Zero-shot-Learning)
++ **CUB:** Caltech-UCSD Birds. Categories:200. [[link]](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
++ **AWA2:** Animals with Attributes. Categories:50. [[link]](https://cvml.ist.ac.at/AwA2/)
++ **aPY:** Describing Objects by their attributes. Categories:40 [[link]](http://vision.cs.uiuc.edu/attributes/)
++ **Flowers Dataset:** There are two datasets, Categories: 17 and 102. [[link]](http://www.robots.ox.ac.uk/~vgg/data/flowers/)
++ **SUN:** Scene Attributes. Categories:675. [[link]](http://cs.brown.edu/~gmpatter/sunattributes.html)
+
+
 
 ## Other resources
 + https://medium.com/@alitech_2017/from-zero-to-hero-shaking-up-the-field-of-zero-shot-learning-c43208f71332

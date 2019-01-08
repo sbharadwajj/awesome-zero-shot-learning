@@ -8,6 +8,12 @@ A curated list of resources including papers, comparitive results on standard da
 
 Contributions are welcome. Please see the [issue](https://github.com/chichilicious/awesome-zero-shot-learning/issues/2) which lists the things which are planned to be included in this repo. If you wish to contribute within these boundaries, feel free to send a PR. If you have suggestions for new sections to be included, please raise an issue and discuss before sending a PR.
 
+## Table of Contents
++ [Papers](#Papers)
++ [Datasets](#Datasets)
++ [Other Resources](#Other/resources)
+
+
 ## Zero-Shot Object Classification
 
 ### Papers

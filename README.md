@@ -11,7 +11,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 ## Table of Contents
 + [Papers](#Papers)
 + [Datasets](#Datasets)
-+ [Other Resources](#Other/resources)
++ [Other Resources](#Other-resources)
 
 
 ## Zero-Shot Object Classification

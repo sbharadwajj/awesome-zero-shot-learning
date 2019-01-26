@@ -46,6 +46,14 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 + **C-GUB:** Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata. "Zero-shot learning-A comprehensive evaluation of the good, the bad and the ugly." TPAMI (2018). [[pdf](https://arxiv.org/pdf/1707.00600.pdf)] [[project](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly/)]
 
+#### AAAI 2018, 2017
++ **GANZrl:** Bin Tong, Martin Klinkigt, Junwen Chen, Xiankun Cui, Quan Kong, Tomokazu Murakami, Yoshiyuki Kobayashi. "Adversarial Zero-shot Learning With Semantic Augmentation." AAAI (2018). [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16805/15965)
++ **JDZsL:** Soheil Kolouri, Mohammad Rostami, Yuri Owechko, Kyungnam Kim. "Joint Dictionaries for Zero-Shot Learning." AAAI (2018). [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16404/16723)
++ **VZSL:** Wenlin Wang, Yunchen Pu, Vinay Kumar Verma, Kai Fan, Yizhe Zhang, Changyou Chen, Piyush Rai, Lawrence Carin. "Zero-Shot Learning via Class-Conditioned Deep Generative Models." AAAI (2018). [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16087/16709)
++ **AS:** Yuchen Guo, Guiguang Ding, Jungong Han, Sheng Tang. "Zero-Shot Learning With Attribute Selection." AAAI (2018). [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16350/16272)
++ **DSSC:** Yan Li, Zhen Jia, Junge Zhang, Kaiqi Huang, Tieniu Tan."Deep Semantic Structural Constraints for Zero-Shot Learning." AAAI (2018). [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16309/16294)
++ **ZsRDA:** Yang Long, Li Liu, Yuming Shen, Ling Shao. "Towards Affordable Semantic Searching: Zero-Shot Retrieval via Dominant Attributes." AAAI (2018). [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16626/16314)
++ **DCL:** "Zero-Shot Recognition via Direct Classifier Learning with Transferred Samples and Pseudo Labels." AAAI (2017). [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14160/14281)
 
 
 #### ICCV 2017
@@ -80,6 +88,10 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 + **MTE:** Xun Xu, Timothy M. Hospedales, Shaogang Gong. "Multi-Task Zero-Shot Action Recognition with Prioritised Data Augmentation." ECCV (2016). [[pdf]](https://arxiv.org/pdf/1611.08663.pdf)
 + Ziming Zhang, Venkatesh Saligrama."Zero-Shot Recognition via Structured Prediction." ECCV (2016). [[pdf]](https://pdfs.semanticscholar.org/be96/1637db8561b027fd48788c64e7919c7cd760.pdf)
 + Maxime Bucher, Stephane Herbin, Frederic Jurie."Improving Semantic Embedding Consistency by Metric Learning for Zero-Shot Classification." ECCV (2016). [[pdf]](https://arxiv.org/pdf/1607.08085.pdf)
+
+#### AAAI 2016
++ **RKT:** Donghui Wang, Yanan Li, Yuetan Lin, Yueting Zhuang. "Relational Knowledge Transfer for Zero-Shot Learning." AAAI (2016). [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11802/11854)
+
 
 #### CVPR 2015
 + Zeynep Akata, Scott Reed, Daniel Walter, Honglak Lee, Bernt Schiele. "Evaluation of Output Embeddings for Fine-Grained Image Classification." CVPR (2015). [[pdf]](https://www.mpi-inf.mpg.de/fileadmin/inf/d2/akata/1690.pdf) [[code]](https://www.mpi-inf.mpg.de/index.php?id=2325) 

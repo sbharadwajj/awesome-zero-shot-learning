@@ -128,9 +128,9 @@ Zero-Shot Recognition and Annotation" ECCV (2014).[[pdf]](https://www.eecs.qmul.
 + **LAD:** Large-scale Attribute Dataset. Categories:230. [[link]](https://github.com/PatrickZH/A-Large-scale-Attribute-Dataset-for-Zero-shot-Learning)
 + **CUB:** Caltech-UCSD Birds. Categories:200. [[link]](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
 + **AWA2:** Animals with Attributes. Categories:50. [[link]](https://cvml.ist.ac.at/AwA2/)
-+ **aPY:** Describing Objects by their attributes. Categories:40 [[link]](http://vision.cs.uiuc.edu/attributes/)
++ **aPY:** attributes Pascal and Yahoo. Categories:32 [[link]](http://vision.cs.uiuc.edu/attributes/)
 + **Flowers Dataset:** There are two datasets, Categories: 17 and 102. [[link]](http://www.robots.ox.ac.uk/~vgg/data/flowers/)
-+ **SUN:** Scene Attributes. Categories:675. [[link]](http://cs.brown.edu/~gmpatter/sunattributes.html)
++ **SUN:** Scene Attributes. Categories:717. [[link]](http://cs.brown.edu/~gmpatter/sunattributes.html)
 
 
 

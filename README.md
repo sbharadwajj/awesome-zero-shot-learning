@@ -134,7 +134,7 @@ Zero-Shot Recognition and Annotation" ECCV (2014).[[pdf]](https://www.eecs.qmul.
 + **SUN:** Scene Attributes. Categories:717. [[link]](http://cs.brown.edu/~gmpatter/sunattributes.html)
 
 ### Starter Code
-[This](https://github.com/chichilicious/embarrsingly-simple-zero-shot-learning) repository contains a Jupyter Notebook step-by-step code to "An embarrassingly simple approach to zero-shot learning." ICML (2015).
+This repository contains a `Demo` folder which has a Jupyter Notebook step-by-step code to "An embarrassingly simple approach to zero-shot learning." ICML (2015).
 This can be used as an introductory code to obtain the basic understanding of Zero-shot Learning.
 
 

@@ -11,6 +11,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 ## Table of Contents
 + [Papers](#Papers)
 + [Datasets](#Datasets)
++ [Starter code for ZSL](#Starter-Code)
 + [Other Resources](#Other-resources)
 
 
@@ -53,7 +54,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 + **AS:** Yuchen Guo, Guiguang Ding, Jungong Han, Sheng Tang. "Zero-Shot Learning With Attribute Selection." AAAI (2018). [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16350/16272)
 + **DSSC:** Yan Li, Zhen Jia, Junge Zhang, Kaiqi Huang, Tieniu Tan."Deep Semantic Structural Constraints for Zero-Shot Learning." AAAI (2018). [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16309/16294)
 + **ZsRDA:** Yang Long, Li Liu, Yuming Shen, Ling Shao. "Towards Affordable Semantic Searching: Zero-Shot Retrieval via Dominant Attributes." AAAI (2018). [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16626/16314)
-+ **DCL:** "Zero-Shot Recognition via Direct Classifier Learning with Transferred Samples and Pseudo Labels." AAAI (2017). [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14160/14281)
++ **DCL:** Yuchen Guo, Guiguang Ding, Jungong Han, Yue Gao. "Zero-Shot Recognition via Direct Classifier Learning with Transferred Samples and Pseudo Labels." AAAI (2017). [[pdf]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14160/14281)
 
 
 #### ICCV 2017
@@ -132,6 +133,9 @@ Zero-Shot Recognition and Annotation" ECCV (2014).[[pdf]](https://www.eecs.qmul.
 + **Flowers Dataset:** There are two datasets, Categories: 17 and 102. [[link]](http://www.robots.ox.ac.uk/~vgg/data/flowers/)
 + **SUN:** Scene Attributes. Categories:717. [[link]](http://cs.brown.edu/~gmpatter/sunattributes.html)
 
+### Starter Code
+[This](https://github.com/chichilicious/embarrsingly-simple-zero-shot-learning) repository contains a Jupyter Notebook step-by-step code to "An embarrassingly simple approach to zero-shot learning." ICML (2015).
+This can be used as an introductory code to obtain the basic understanding of Zero-shot Learning.
 
 
 ## Other resources

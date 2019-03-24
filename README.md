@@ -123,15 +123,15 @@ Visual Object Categorization." TPAMI (2013) [[pdf]](http://pub.ist.ac.at/~chl/pa
 Zero-Shot Recognition and Annotation" ECCV (2014).[[pdf]](https://www.eecs.qmul.ac.uk/~txiang/publications/Fu_et_al_embedding_eccv2014.pdf) [[code]](https://github.com/yanweifu/embedding_zero-shot-learning)
 + Stanislaw Antol, Larry Zitnick, Devi Parikh. "Zero-Shot Learning via Visual Abstraction." ECCV (2014). [[pdf]](https://computing.ece.vt.edu/~santol/projects/zsl_via_visual_abstraction/eccv2014_zsl_via_visual_abstraction.pdf) [[code]](https://github.com/StanislawAntol/zsl_via_visual_abstraction) [[project]](https://computing.ece.vt.edu/~santol/projects/zsl_via_visual_abstraction/)
 
+#### CVPR 2013
++ **ALE** Z.Akata, F. Perronnin, Z. Harchaoui, and C. Schmid. "Label Embedding for Attribute-Based Classification." CVPR (2013). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Akata_Label-Embedding_for_Attribute-Based_2013_CVPR_paper.pdf)
+
 #### Other Papers
 + **EsZSL:** Bernardino Romera-Paredes, Philip H. S. Torr. "An embarrassingly simple approach to zero-shot learning." ICML (2015). [[pdf]](http://proceedings.mlr.press/v37/romera-paredes15.pdf) [[Code]](https://github.com/MLWave/extremely-simple-one-shot-learning)
 + **AEZSL:** "Zero-Shot Learning via Category-Specific Visual-Semantic Mapping and Label Refinement" IEEE SPS (2018). [[pdf]](https://ieeexplore.ieee.org/document/8476580)
 + **ZSGD:** Tiancheng Zhao, Maxine Eskenazi. "Zero-Shot Dialog Generation with Cross-Domain Latent Actions" SIGDIAL (2018). [[pdf]](https://arxiv.org/abs/1805.04803v1) [[code]](https://github.com/snakeztc/NeuralDialog-ZSDG)
 + Yanwei Fu, Tao Xiang, Yu-Gang Jiang, Xiangyang Xue, Leonid Sigal, Shaogang Gong "Recent Advances in Zero-shot Recognition".  IEEE Signal Processing Magazine. [[pdf]](https://arxiv.org/pdf/1710.04837.pdf)
 + Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing "Rethinking Knowledge Graph Propagation for Zero-Shot Learning" arXiv (2018). [[pdf]](https://arxiv.org/pdf/1805.11724v2.pdf) [[code]](https://github.com/cyvius96/adgpm)
-
-#### CVPR 2013
-+ **ALE:** Z. Akata, F. Perronnin, Z. Harchaoui, and C. Schmid. "Label Embedding for Attribute-Based Classification." CVPR (2013). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Akata_Label-Embedding_for_Attribute-Based_2013_CVPR_paper.pdf)
 
 ### Datasets
 + **LAD:** Large-scale Attribute Dataset. Categories:230. [[link]](https://github.com/PatrickZH/A-Large-scale-Attribute-Dataset-for-Zero-shot-Learning)

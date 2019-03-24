@@ -130,6 +130,9 @@ Zero-Shot Recognition and Annotation" ECCV (2014).[[pdf]](https://www.eecs.qmul.
 + Yanwei Fu, Tao Xiang, Yu-Gang Jiang, Xiangyang Xue, Leonid Sigal, Shaogang Gong "Recent Advances in Zero-shot Recognition".  IEEE Signal Processing Magazine. [[pdf]](https://arxiv.org/pdf/1710.04837.pdf)
 + Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing "Rethinking Knowledge Graph Propagation for Zero-Shot Learning" arXiv (2018). [[pdf]](https://arxiv.org/pdf/1805.11724v2.pdf) [[code]](https://github.com/cyvius96/adgpm)
 
+#### CVPR 2013
++ **ALE:** Z. Akata, F. Perronnin, Z. Harchaoui, and C. Schmid. "Label Embedding for Attribute-Based Classification." CVPR (2013). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Akata_Label-Embedding_for_Attribute-Based_2013_CVPR_paper.pdf)
+
 ### Datasets
 + **LAD:** Large-scale Attribute Dataset. Categories:230. [[link]](https://github.com/PatrickZH/A-Large-scale-Attribute-Dataset-for-Zero-shot-Learning)
 + **CUB:** Caltech-UCSD Birds. Categories:200. [[link]](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)

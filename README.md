@@ -19,8 +19,24 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 ### Papers
 
+#### CVPR 2019
++ **CADA-VAE:** "Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders" CVPR (2019). [[pdf]](https://arxiv.org/abs/1812.01784) [[code]](https://github.com/edgarschnfld/CADA-VAE-PyTorch)
++ **GDAN:** He Huang, Changhu Wang, Philip S. Yu, Chang-Dong Wang. "Generative Dual Adversarial Network for Generalized Zero-shot Learning" CVPR (2019). [[pdf]](https://arxiv.org/abs/1811.04857) [[code]](https://github.com/stevehuanghe/GDAN)
++ **DeML:** "Hybrid-Attention based Decoupled Metric Learning for Zero-Shot Image Retrieval" CVPR (2019). [[pdf]](http://www.bhchen.cn/paper/cvpr19.pdf) [[code]](https://github.com/chenbinghui1/Hybrid-Attention-based-Decoupled-Metric-Learning)
++ **Gzsl-VSE:** Pengkai Zhu, Hanxiao Wang, Venkatesh Saligrama. "Generalized Zero-Shot Recognition based on Visually Semantic Embedding" CVPR (2019). [[pdf]](https://arxiv.org/pdf/1811.07993.pdf)
++ **LisGAN:** Jingjing Li, Mengmeng Jin, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang. "Leveraging the Invariant Side of Generative Zero-Shot Learning" CVPR (2019). [[pdf]](https://arxiv.org/pdf/1904.04092.pdf) [[code]](https://github.com/lijin118/LisGAN)
++ **DGP:** Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing. "Rethinking Knowledge Graph Propagation for Zero-Shot Learning" CVPR (2019). [[pdf]](https://arxiv.org/pdf/1805.11724.pdf) [[code]](https://github.com/cyvius96/DGP)
++ **DAZL:** Yuval Atzmon, Gal Chechik. "Domain-Aware Generalized Zero-Shot Learning" CVPR (2019). [[pdf]](https://arxiv.org/pdf/1812.09903.pdf)
++ **PrEN:** Meng Ye, Yuhong Guo. "Progressive Ensemble Networks for Zero-Shot Recognition" CVPR (2019). [[pdf]](https://arxiv.org/pdf/1805.07473.pdf)
++ Semantically Aligned Bias Reducing Zero Shot Learning (add it when it is released)
++ Hierarchical Disentanglement of Discriminative Latent Features for Zero-shot Learning (add when it is released)
++ Attentive Region Embedding Network for Zero-shot Learning (add when it is released)
++ Marginalized Latent Semantic Encoder for Zero-Shot Learning (add when it is released)
++ Compressing Unknown Classes with Product Quantizer for Efficient Zero-Shot Classification (add when it is released)
++ Gradient Matching Generative Networks for Zero-Shot Learning (add when it is released)
+
 #### NeurIPS 2018
- + **DCN:** Shichen Liu, Mingsheng Long, Jianmin Wang, Michael I. Jordan."Generalized Zero-Shot Learning with Deep Calibration Network" NeurIPS (2018). [[pdf]](http://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network.pdf)
++ **DCN:** Shichen Liu, Mingsheng Long, Jianmin Wang, Michael I. Jordan."Generalized Zero-Shot Learning with Deep Calibration Network" NeurIPS (2018). [[pdf]](http://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network.pdf)
 + **S2GA:** Yunlong Yu, Zhong Ji, Yanwei Fu, Jichang Guo, Yanwei Pang, Zhongfei (Mark) Zhang."Stacked Semantics-Guided Attention Model for Fine-Grained Zero-Shot Learning." NeurIPS (2018). [[pdf]](http://papers.nips.cc/paper/7839-stacked-semantics-guided-attention-model-for-fine-grained-zero-shot-learning.pdf)
 + **DIPL:** An Zhao, Mingyu Ding, Jiechao Guan, Zhiwu Lu, Tao Xiang, Ji-Rong Wen "Domain-Invariant Projection Learning for Zero-Shot Recognition." NeurIPS (2018). [[pdf]](http://papers.nips.cc/paper/7380-domain-invariant-projection-learning-for-zero-shot-recognition.pdf)
 

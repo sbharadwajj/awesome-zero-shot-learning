@@ -19,9 +19,6 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 ### Papers
 
-#### TIST 2019
-+ **Survey:** Wei Wang, Vincent W. Zheng, Han Yu, Chunyan Miao. "A Survey of Zero-Shot Learning: Settings, Methods, and Applications". ACM Transactions on Intelligent Systems and Technology (TIST 2019). [[pdf]](https://dl.acm.org/citation.cfm?doid=3306498.3293318)
-
 #### CVPR 2019
 + **CADA-VAE:** Edgar Schönfeld, Sayna Ebrahimi, Samarth Sinha, Trevor Darrell, Zeynep Akata. "Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders." CVPR (2019). [[pdf]](https://arxiv.org/abs/1812.01784) [[code]](https://github.com/edgarschnfld/CADA-VAE-PyTorch)
 + **GDAN:** He Huang, Changhu Wang, Philip S. Yu, Chang-Dong Wang. "Generative Dual Adversarial Network for Generalized Zero-shot Learning." CVPR (2019). [[pdf]](https://arxiv.org/abs/1811.04857) [[code]](https://github.com/stevehuanghe/GDAN)
@@ -151,6 +148,7 @@ Zero-Shot Recognition and Annotation" ECCV (2014).[[pdf]](https://www.eecs.qmul.
 + **ZSGD:** Tiancheng Zhao, Maxine Eskenazi. "Zero-Shot Dialog Generation with Cross-Domain Latent Actions" SIGDIAL (2018). [[pdf]](https://arxiv.org/abs/1805.04803v1) [[code]](https://github.com/snakeztc/NeuralDialog-ZSDG)
 + Yanwei Fu, Tao Xiang, Yu-Gang Jiang, Xiangyang Xue, Leonid Sigal, Shaogang Gong "Recent Advances in Zero-shot Recognition".  IEEE Signal Processing Magazine. [[pdf]](https://arxiv.org/pdf/1710.04837.pdf)
 + Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing "Rethinking Knowledge Graph Propagation for Zero-Shot Learning" arXiv (2018). [[pdf]](https://arxiv.org/pdf/1805.11724v2.pdf) [[code]](https://github.com/cyvius96/adgpm)
++ **Survey:** Wei Wang, Vincent W. Zheng, Han Yu, Chunyan Miao. "A Survey of Zero-Shot Learning: Settings, Methods, and Applications". TIST (2019). [[pdf]](https://dl.acm.org/citation.cfm?doid=3306498.3293318)
 
 ### Datasets
 + **LAD:** Large-scale Attribute Dataset. Categories:230. [[link]](https://github.com/PatrickZH/A-Large-scale-Attribute-Dataset-for-Zero-shot-Learning)

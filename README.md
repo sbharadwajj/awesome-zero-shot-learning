@@ -19,6 +19,9 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 ### Papers
 
+#### TIST 2019
++ **Survey:** Wei Wang, Vincent W. Zheng, Han Yu, Chunyan Miao. "A Survey of Zero-Shot Learning: Settings, Methods, and Applications". ACM Transactions on Intelligent Systems and Technology (TIST 2019). [[pdf]](https://dl.acm.org/citation.cfm?doid=3306498.3293318)
+
 #### CVPR 2019
 + **CADA-VAE:** Edgar Schönfeld, Sayna Ebrahimi, Samarth Sinha, Trevor Darrell, Zeynep Akata. "Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders." CVPR (2019). [[pdf]](https://arxiv.org/abs/1812.01784) [[code]](https://github.com/edgarschnfld/CADA-VAE-PyTorch)
 + **GDAN:** He Huang, Changhu Wang, Philip S. Yu, Chang-Dong Wang. "Generative Dual Adversarial Network for Generalized Zero-shot Learning." CVPR (2019). [[pdf]](https://arxiv.org/abs/1811.04857) [[code]](https://github.com/stevehuanghe/GDAN)

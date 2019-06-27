@@ -30,11 +30,11 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 + **PrEN:** Meng Ye, Yuhong Guo. "Progressive Ensemble Networks for Zero-Shot Recognition." CVPR (2019). [[pdf]](https://arxiv.org/pdf/1805.07473.pdf)
 + Tristan Hascoet, Yasuo Ariki, Tetsuya Takiguchi. "On Zero-Shot Learning of generic objects." CVPR (2019). [[pdf]](https://arxiv.org/pdf/1904.04957.pdf) [[code]](https://github.com/TristHas/GOZ)
 + **SABR-T:** Akanksha Paul, Naraynan C Krishnan, Prateek Munjal. "Semantically Aligned Bias Reducing Zero Shot Learning." CVPR (2019). [[pdf]](https://arxiv.org/abs/1904.07659)
-+ "Attentive Region Embedding Network for Zero-shot Learning." CVPR (2019). [[pdf]]() [[code]](https://github.com/gsx0/Attentive-Region-Embedding-Network-for-Zero-shot-Learning)
-+ Marginalized Latent Semantic Encoder for Zero-Shot Learning. (add when it is released)
-+ Compressing Unknown Classes with Product Quantizer for Efficient Zero-Shot Classification. (add when it is released)
-+ Gradient Matching Generative Networks for Zero-Shot Learning. (add when it is released)
-+ Hierarchical Disentanglement of Discriminative Latent Features for Zero-shot Learning. (add when it is released)
++ **AREN:** Guo-Sen Xie, Li Liu, Xiaobo Jin, Fan Zhu, Zheng Zhang, Jie Qin, Yazhou Yao, Ling Shao. "Attentive Region Embedding Network for Zero-shot Learning." CVPR (2019). [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf) [[code]](https://github.com/gsx0/Attentive-Region-Embedding-Network-for-Zero-shot-Learning)
++ Zhengming Ding, Hongfu Liu. "Marginalized Latent Semantic Encoder for Zero-Shot Learning." CVPR (2019). [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_Marginalized_Latent_Semantic_Encoder_for_Zero-Shot_Learning_CVPR_2019_paper.pdf)
++ **PQZSL:** Jin Li, Xuguang Lan, Yang Liu, Le Wang, Nanning Zheng. "Compressing Unknown Classes with Product Quantizer for Efficient Zero-Shot Classification." CVPR (2019). [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Compressing_Unknown_Images_With_Product_Quantizer_for_Efficient_Zero-Shot_Classification_CVPR_2019_paper.pdf)
++ Mert Bulent Sariyildiz, Ramazan Gokberk Cinbis. "Gradient Matching Generative Networks for Zero-Shot Learning." CVPR (2019). [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sariyildiz_Gradient_Matching_Generative_Networks_for_Zero-Shot_Learning_CVPR_2019_paper.pdf)
++ Bin Tong, Chao Wang, Martin Klinkigt, Yoshiyuki Kobayashi, Yuuichi Nonaka. "Hierarchical Disentanglement of Discriminative Latent Features for Zero-shot Learning." CVPR (2019). [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tong_Hierarchical_Disentanglement_of_Discriminative_Latent_Features_for_Zero-Shot_Learning_CVPR_2019_paper.pdf)
 
 #### NeurIPS 2018
 + **DCN:** Shichen Liu, Mingsheng Long, Jianmin Wang, Michael I. Jordan."Generalized Zero-Shot Learning with Deep Calibration Network" NeurIPS (2018). [[pdf]](http://papers.nips.cc/paper/7471-generalized-zero-shot-learning-with-deep-calibration-network.pdf)

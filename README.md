@@ -19,6 +19,14 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 ### Papers
 
+#### ICCV 2019
++ **CIZSL:** Mohamed Elhoseiny, Mohamed Elfeki. "Creativity Inspired Zero-Shot Learning." ICCV (2019). [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Elhoseiny_Creativity_Inspired_Zero-Shot_Learning_ICCV_2019_paper.pdf). [[code]](https://github.com/mhelhoseiny/CIZSL)
++ **LFGAA+SA:** "Attribute Attention for Semantic Disambiguation in Zero-Shot Learning." ICCV (2019). [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Attribute_Attention_for_Semantic_Disambiguation_in_Zero-Shot_Learning_ICCV_2019_paper.pdf). [[code]](https://github.com/ZJULearning/AttentionZSL)
++ **TCN:** Huajie Jiang, Ruiping Wang, Shiguang Shan, Xilin Chen. "Transferable Contrastive Network for Generalized Zero-Shot Learning." ICCV (2019). [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Transferable_Contrastive_Network_for_Generalized_Zero-Shot_Learning_ICCV_2019_paper.pdf).
++ **GXE:** Kai Li, Martin Renqiang Min, Yun Fu. "Rethinking Zero-Shot Learning: A Conditional Visual Classification Perspective." ICCV (2019). [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Rethinking_Zero-Shot_Learning_A_Conditional_Visual_Classification_Perspective_ICCV_2019_paper.pdf)
++ Yizhe Zhu1, Jianwen Xie, Bingchen Liu, Ahmed Elgammal. "Learning Feature-to-Feature Translator by Alternating Back-Propagation for Generative Zero-Shot Learning." ICCV (2019). [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Feature-to-Feature_Translator_by_Alternating_Back-Propagation_for_Generative_Zero-Shot_Learning_ICCV_2019_paper.pdf)
++ Yannick Le Cacheux, Herve Le Borgne, Michel Crucianu "Modeling Inter and Intra-Class Relations in the Triplet Loss for Zero-Shot Learning." ICCV (2019). [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Le_Cacheux_Modeling_Inter_and_Intra-Class_Relations_in_the_Triplet_Loss_for_ICCV_2019_paper.pdf).
+
 #### CVPR 2019
 + **CADA-VAE:** Edgar Schönfeld, Sayna Ebrahimi, Samarth Sinha, Trevor Darrell, Zeynep Akata. "Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders." CVPR (2019). [[pdf]](https://arxiv.org/abs/1812.01784) [[code]](https://github.com/edgarschnfld/CADA-VAE-PyTorch)
 + **GDAN:** He Huang, Changhu Wang, Philip S. Yu, Chang-Dong Wang. "Generative Dual Adversarial Network for Generalized Zero-shot Learning." CVPR (2019). [[pdf]](https://arxiv.org/abs/1811.04857) [[code]](https://github.com/stevehuanghe/GDAN)

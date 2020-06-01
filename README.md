@@ -183,6 +183,7 @@ This can be used as an introductory code to obtain the basic understanding of Ze
 + https://medium.com/@alitech_2017/from-zero-to-hero-shaking-up-the-field-of-zero-shot-learning-c43208f71332
 + https://www.analyticsindiamag.com/what-is-zero-shot-learning/
 + https://medium.com/@cetinsamet/zero-shot-learning-53080995d45f
++ https://amitness.com/2020/05/zero-shot-text-classification/
 
 ## License
 

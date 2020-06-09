@@ -19,6 +19,9 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 ### Papers
 
+#### ICLR 2020
++ Tristan Sylvain, Linda Petrini, Devon Hjelm. "Locality and Compositionality in Zero-Shot Learning." ICLR (2020). [[pdf]](https://openreview.net/pdf?id=Hye_V0NKwr).
+
 #### NeurIPS 2019
 + **VSC:** Ziyu Wan, Dongdong Chen, Yan Li, Xingguang Yan, Junge Zhang, Yizhou Yu, Jing Liao. "Transductive Zero-Shot Learning with Visual Structure Constraint." NeurIPS (2019). [[pdf]](http://papers.nips.cc/paper/9188-transductive-zero-shot-learning-with-visual-structure-constraint.pdf) [[code]](https://github.com/raywzy/VSC).
 + Hyeonwoo Yu, Beomhee Lee. "Zero-shot Learning via Simultaneous Generating and Learning." NeurIPS (2019). [[pdf]](http://papers.nips.cc/paper/8300-zero-shot-learning-via-simultaneous-generating-and-learning.pdf).

@@ -19,9 +19,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 ### Papers
 
-#### ECCV 2020
-+ **LsrGAN**: Maunil R Vyas, Hemanth Venkateswara, and Sethuraman Panchanathan. "Leveraging Seen and Unseen Semantic Relationships for Generative Zero-Shot Learning." ECCV (2020). [[pdf]](https://arxiv.org/pdf/2007.09549.pdf). 
-+ **LsrGAN**: Maunil R Vyas, Hemanth Venkateswara, and Sethuraman Panchanathan. "Leveraging Seen and Unseen Semantic Relationships for Generative Zero-Shot Learning." ECCV (2020). [[pdf]](https://arxiv.org/pdf/2007.09549.pdf). 
+#### ECCV 2020 
 + **TF-vaegan**: Sanath Narayan<sup>\*</sup> , Akshita Gupta<sup>\*</sup> , Fahad Shahbaz Khan, Cees G. M. Snoek, Ling Shao. "Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification." ECCV (2020). [[pdf]](https://arxiv.org/pdf/2003.07833.pdf) [[code]](https://github.com/akshitac8/tfvaegan).
 + **LsrGAN**: Maunil R Vyas, Hemanth Venkateswara, and Sethuraman Panchanathan. "Leveraging Seen and Unseen Semantic Relationships for Generative Zero-Shot Learning." ECCV (2020). [[pdf]](https://arxiv.org/pdf/2007.09549.pdf). 
 + Xingyu Chen, Xuguang Lan, Fuchun Sun, and Nanning Zheng. "A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning." ECCV (2020). [[pdf]](https://arxiv.org/pdf/2008.04872.pdf).

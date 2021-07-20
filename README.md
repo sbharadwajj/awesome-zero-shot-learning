@@ -19,6 +19,12 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 ### Papers
 
+#### CVPR 2021
++ Liu Bo, Qiulei Dong and Zhanyi Hu. "Hardness Sampling for Self-Training Based Transductive Zero-Shot Learning" [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Bo_Hardness_Sampling_for_Self-Training_Based_Transductive_Zero-Shot_Learning_CVPR_2021_paper.pdf)
++ Zongyan Han, Zhenyong Fu, Shuo Chen and Jian Yang "Contrastive Embedding for Generalized Zero-Shot Learning" [[pdf]](https://arxiv.org/pdf/2103.16173.pdf) [[code]](https://github.com/Hanzy1996/CE-GZSL)
++ Yang Liu, Lei Zhou, Xiao Bai, Yifei Huang, Lin Gu, Jun Zhou, Tatsuya Harada. "Goal-Oriented Gaze Estimation for Zero-Shot Learning" [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Goal-Oriented_Gaze_Estimation_for_Zero-Shot_Learning_CVPR_2021_paper.pdf) [[code]](https://github.com/osierboy/GEM-ZSL)
++ "Learning Graph Embeddings for Compositional Zero-shot Learning" [[pdf]](https://arxiv.org/pdf/2102.01987.pdf) [[code]](https://github.com/ExplainableML/czsl) 
+
 #### ECCV 2020 
 + **TF-vaegan**: Sanath Narayan<sup>\*</sup> , Akshita Gupta<sup>\*</sup> , Fahad Shahbaz Khan, Cees G. M. Snoek, Ling Shao. "Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification." ECCV (2020). [[pdf]](https://arxiv.org/pdf/2003.07833.pdf) [[code]](https://github.com/akshitac8/tfvaegan).
 + **LsrGAN**: Maunil R Vyas, Hemanth Venkateswara, and Sethuraman Panchanathan. "Leveraging Seen and Unseen Semantic Relationships for Generative Zero-Shot Learning." ECCV (2020). [[pdf]](https://arxiv.org/pdf/2007.09549.pdf). 

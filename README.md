@@ -26,7 +26,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 + "Learning Graph Embeddings for Compositional Zero-shot Learning" [[pdf]](https://arxiv.org/pdf/2102.01987.pdf) [[code]](https://github.com/ExplainableML/czsl) 
 
 #### ICLR 2021
-+ Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Xuanyi Dong, Chengqi Zhang. ISOMETRIC PROPAGATION NETWORK FOR GENERALIZED ZERO SHOT LEARNING [[pdf]](https://openreview.net/pdf?id=-mWcQVLPSPy)
++ Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Xuanyi Dong, Chengqi Zhang. "ISOMETRIC PROPAGATION NETWORK FOR GENERALIZED ZERO SHOT LEARNING" [[pdf]](https://openreview.net/pdf?id=-mWcQVLPSPy)
 
 #### ECCV 2020 
 + **TF-vaegan**: Sanath Narayan<sup>\*</sup> , Akshita Gupta<sup>\*</sup> , Fahad Shahbaz Khan, Cees G. M. Snoek, Ling Shao. "Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification." ECCV (2020). [[pdf]](https://arxiv.org/pdf/2003.07833.pdf) [[code]](https://github.com/akshitac8/tfvaegan).

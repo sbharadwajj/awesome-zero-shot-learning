@@ -192,7 +192,7 @@ Zero-Shot Recognition and Annotation" ECCV (2014).[[pdf]](https://www.eecs.qmul.
 + **Flowers Dataset:** There are two datasets, Categories: 17 and 102. [[link]](http://www.robots.ox.ac.uk/~vgg/data/flowers/)
 + **SUN:** Scene Attributes. Categories:717. [[link]](http://cs.brown.edu/~gmpatter/sunattributes.html)
 + **HMDB51** : a large human motion database. Categories:51 [[link]](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads)
-+ **UCF101** :  an action image recognition dataset of real action videos, collected from YouTube. divided into 101 action categories, this data set is an extension of UCF50 data set which has 50 action categories. [[link]](https://www.crcv.ucf.edu/data/UCF101.php)
++ **UCF101** :  an action image recognition dataset of real action videos, collected from YouTube. Categories:101 [[link]](https://www.crcv.ucf.edu/data/UCF101.php)
 
 ### Starter Code
 This repository contains a `Demo` folder which has a Jupyter Notebook step-by-step code to "An embarrassingly simple approach to zero-shot learning." ICML (2015).

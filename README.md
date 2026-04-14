@@ -12,6 +12,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 + [Papers](#Papers)
 + [Datasets](#Datasets)
 + [Starter code for ZSL](#Starter-Code)
++ [Applications](#Applications)
 + [Other Resources](#Other-resources)
 
 
@@ -198,6 +199,9 @@ Zero-Shot Recognition and Annotation" ECCV (2014).[[pdf]](https://www.eecs.qmul.
 This repository contains a `Demo` folder which has a Jupyter Notebook step-by-step code to "An embarrassingly simple approach to zero-shot learning." ICML (2015).
 This can be used as an introductory code to obtain the basic understanding of Zero-shot Learning.
 
+## Applications
+
++ [Helium MCP](https://github.com/connerlambden/helium-mcp) - Uses zero-shot learning to score news articles across 37 bias dimensions (prescriptiveness, conspiracy, scapegoating, AI-written detection, etc.) for 210 news sources.
 
 ## Other resources
 + https://medium.com/@alitech_2017/from-zero-to-hero-shaking-up-the-field-of-zero-shot-learning-c43208f71332

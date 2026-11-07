@@ -19,6 +19,15 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 ### Papers
 
+#### IJCV 2026
++ **Self-TPT:** Yuhan Zhu, Guozhen Zhang, Chen Xu, Haocheng Shen, Xiaoxin Chen, Gangshan Wu, Limin Wang. "Efficient Test-Time Prompt Tuning for Vision-Language Models." IJCV (2026). [[paper]](https://link.springer.com/article/10.1007/s11263-026-03019-3) [[arXiv]](https://arxiv.org/abs/2408.05775)
+
+#### ICML 2026
++ **FreeRet:** Yuhan Zhu, Xiangyu Zeng, Chenting Wang, Xinhao Li, Chunxu Liu, Yicheng Xu, Ziang Yan, Yi Wang, Limin Wang. "FreeRet: MLLMs as Training-Free Retrievers." ICML (2026). [[paper]](https://proceedings.mlr.press/v306/zhu26ba.html) [[code]](https://github.com/MCG-NJU/FreeRet)
+
+#### NeurIPS 2024
++ **AWT:** Yuhan Zhu, Yuyang Ji, Zhiyu Zhao, Gangshan Wu, Limin Wang. "AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation." NeurIPS (2024). [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html) [[code]](https://github.com/MCG-NJU/AWT)
+
 #### CVPR 2021
 + Liu Bo, Qiulei Dong and Zhanyi Hu. "Hardness Sampling for Self-Training Based Transductive Zero-Shot Learning" [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Bo_Hardness_Sampling_for_Self-Training_Based_Transductive_Zero-Shot_Learning_CVPR_2021_paper.pdf)
 + Zongyan Han, Zhenyong Fu, Shuo Chen and Jian Yang "Contrastive Embedding for Generalized Zero-Shot Learning" [[pdf]](https://arxiv.org/pdf/2103.16173.pdf) [[code]](https://github.com/Hanzy1996/CE-GZSL)
